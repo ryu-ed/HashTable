@@ -15,3 +15,5 @@ En este caso en lugar de utilizar numeros como identificadores, utilice las expr
 | IPARENTESIS | t_IPARENTESIS = r'\('  | Reconoce el parentesis izquierdo |
 | DPARENTESIS | t_DPARENTESIS = r'\)' | Reconoce el parentesis derecho |
 | IGUAL  | T_IGUAL = r'='  | Reconoce el signo de = |
+
+Captura de imagen del funcionamiento del programa
