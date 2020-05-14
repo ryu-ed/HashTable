@@ -29,6 +29,6 @@ Archivo que muestra el resultado de la compilacion : https://github.com/ryu-ed/H
 - Libreria ply: sudo apt-get install python3-ply
 - python 3: https://python-guide-es.readthedocs.io/es/latest/starting/install3/linux.html
 
-##Referencias 
+## Referencias 
 - https://www.matthieuamiguet.ch/media/documents/TeachingCompilersWithPython_Slides.pdf
 - https://www.dlsi.ua.es/asignaturas/pl/downloads/1516/tema2-1x2.pdf
