@@ -1,0 +1,265 @@
+CARACTER VALIDOS >>>  LexToken(ID,'gJHRK',1,0)
+CARACTER INVALIDO '@'
+
+******************************************
+CARACTER VALIDOS >>>  LexToken(ID,'ba',1,6)
+CARACTER INVALIDO '#'
+
+******************************************
+CARACTER VALIDOS >>>  LexToken(ID,'j',1,9)
+CARACTER INVALIDO ','
+
+******************************************
+CARACTER VALIDOS >>>  LexToken(ID,'V',1,11)
+CARACTER INVALIDO '&'
+
+******************************************
+CARACTER VALIDOS >>>  LexToken(ID,'jn',1,13)
+CARACTER INVALIDO ','
+
+******************************************
+CARACTER VALIDOS >>>  LexToken(ID,'Ht',1,16)
+CARACTER VALIDOS >>>  LexToken(IPARENTESIS,'(',1,18)
+CARACTER INVALIDO ']'
+
+******************************************
+CARACTER VALIDOS >>>  LexToken(ID,'Sdf2',1,20)
+CARACTER INVALIDO '%'
+
+******************************************
+CARACTER VALIDOS >>>  LexToken(NUMERO,9,1,25)
+CARACTER INVALIDO ','
+
+******************************************
+CARACTER VALIDOS >>>  LexToken(ID,'Tj',1,27)
+CARACTER INVALIDO '#'
+
+******************************************
+CARACTER VALIDOS >>>  LexToken(ID,'wvccr5w',2,31)
+CARACTER VALIDOS >>>  LexToken(DIVISION,'/',2,38)
+CARACTER VALIDOS >>>  LexToken(ID,'Qd',2,39)
+CARACTER INVALIDO ']'
+
+******************************************
+CARACTER VALIDOS >>>  LexToken(ID,'D8iU3b',2,42)
+CARACTER INVALIDO ']'
+
+******************************************
+CARACTER INVALIDO '#'
+
+******************************************
+CARACTER VALIDOS >>>  LexToken(ID,'vkrMUgCewig',2,50)
+CARACTER VALIDOS >>>  LexToken(NUMERO,4,3,62)
+CARACTER INVALIDO '$'
+
+******************************************
+CARACTER INVALIDO '.'
+
+******************************************
+CARACTER VALIDOS >>>  LexToken(ID,'p8c',3,65)
+CARACTER INVALIDO '}'
+
+******************************************
+CARACTER VALIDOS >>>  LexToken(NUMERO,9,3,69)
+CARACTER VALIDOS >>>  LexToken(ID,'c5VSa2',3,70)
+CARACTER INVALIDO '.'
+
+******************************************
+CARACTER VALIDOS >>>  LexToken(ID,'p',3,77)
+CARACTER INVALIDO '}'
+
+******************************************
+CARACTER VALIDOS >>>  LexToken(ID,'Ve3_Ub',3,79)
+CARACTER INVALIDO ']'
+
+******************************************
+CARACTER VALIDOS >>>  LexToken(ID,'vg77c',3,86)
+CARACTER VALIDOS >>>  LexToken(DIVISION,'/',3,91)
+CARACTER VALIDOS >>>  LexToken(ID,'uu',4,93)
+CARACTER INVALIDO '$'
+
+******************************************
+CARACTER VALIDOS >>>  LexToken(ID,'j',4,96)
+CARACTER INVALIDO ';'
+
+******************************************
+CARACTER VALIDOS >>>  LexToken(ID,'Yc',4,98)
+CARACTER INVALIDO '.'
+
+******************************************
+CARACTER VALIDOS >>>  LexToken(ID,'PEkD',4,101)
+CARACTER INVALIDO '#'
+
+******************************************
+CARACTER VALIDOS >>>  LexToken(ID,'i4VhuK',4,106)
+CARACTER INVALIDO '!'
+
+******************************************
+CARACTER VALIDOS >>>  LexToken(ID,'CE',4,113)
+CARACTER INVALIDO '$'
+
+******************************************
+CARACTER VALIDOS >>>  LexToken(DPARENTESIS,')',4,116)
+CARACTER VALIDOS >>>  LexToken(ID,'Hm',4,117)
+CARACTER INVALIDO '{'
+
+******************************************
+CARACTER INVALIDO '!'
+
+******************************************
+CARACTER VALIDOS >>>  LexToken(ID,'QY',4,121)
+CARACTER VALIDOS >>>  LexToken(SUMA,'+',5,124)
+CARACTER VALIDOS >>>  LexToken(NUMERO,6,5,125)
+CARACTER VALIDOS >>>  LexToken(ID,'Hnwg',5,126)
+CARACTER VALIDOS >>>  LexToken(PRODUCTO,'*',5,130)
+CARACTER VALIDOS >>>  LexToken(ID,'VjeM8vjBVz9qz',5,131)
+CARACTER INVALIDO '%'
+
+******************************************
+CARACTER VALIDOS >>>  LexToken(ID,'d',5,145)
+CARACTER INVALIDO '!'
+
+******************************************
+CARACTER VALIDOS >>>  LexToken(ID,'BYhF5',5,147)
+CARACTER INVALIDO '&'
+
+******************************************
+CARACTER VALIDOS >>>  LexToken(ID,'Y',5,153)
+CARACTER VALIDOS >>>  LexToken(ID,'Gj',6,155)
+CARACTER VALIDOS >>>  LexToken(IGUAL,'=',6,157)
+CARACTER VALIDOS >>>  LexToken(ID,'PUxBaZ',6,158)
+CARACTER INVALIDO ';'
+
+******************************************
+CARACTER VALIDOS >>>  LexToken(ID,'HWDejdHY',6,165)
+CARACTER INVALIDO '?'
+
+******************************************
+CARACTER INVALIDO '.'
+
+******************************************
+CARACTER VALIDOS >>>  LexToken(ID,'dp',6,175)
+CARACTER VALIDOS >>>  LexToken(SUMA,'+',6,177)
+CARACTER VALIDOS >>>  LexToken(NUMERO,8,6,178)
+CARACTER VALIDOS >>>  LexToken(ID,'pM',6,179)
+CARACTER VALIDOS >>>  LexToken(DPARENTESIS,')',6,181)
+CARACTER VALIDOS >>>  LexToken(ID,'xS',6,182)
+CARACTER INVALIDO '}'
+
+******************************************
+CARACTER VALIDOS >>>  LexToken(NUMERO,7,7,186)
+CARACTER VALIDOS >>>  LexToken(ID,'q',7,187)
+CARACTER VALIDOS >>>  LexToken(IPARENTESIS,'(',7,188)
+CARACTER VALIDOS >>>  LexToken(ID,'x',7,189)
+CARACTER VALIDOS >>>  LexToken(RESTA,'-',7,190)
+CARACTER INVALIDO '.'
+
+******************************************
+CARACTER VALIDOS >>>  LexToken(ID,'BFf',7,192)
+CARACTER INVALIDO ']'
+
+******************************************
+CARACTER INVALIDO '.'
+
+******************************************
+CARACTER VALIDOS >>>  LexToken(ID,'tPm7',7,197)
+CARACTER VALIDOS >>>  LexToken(IPARENTESIS,'(',7,201)
+CARACTER INVALIDO '%'
+
+******************************************
+CARACTER VALIDOS >>>  LexToken(ID,'V',7,203)
+CARACTER VALIDOS >>>  LexToken(IGUAL,'=',7,204)
+CARACTER VALIDOS >>>  LexToken(IPARENTESIS,'(',7,205)
+CARACTER VALIDOS >>>  LexToken(ID,'LB',7,206)
+CARACTER INVALIDO '!'
+
+******************************************
+CARACTER VALIDOS >>>  LexToken(ID,'jKCd',7,209)
+CARACTER VALIDOS >>>  LexToken(DIVISION,'/',7,213)
+CARACTER INVALIDO '?'
+
+******************************************
+CARACTER VALIDOS >>>  LexToken(ID,'M',7,215)
+CARACTER INVALIDO '&'
+
+******************************************
+CARACTER VALIDOS >>>  LexToken(ID,'dZYUAK',8,218)
+CARACTER INVALIDO '{'
+
+******************************************
+CARACTER INVALIDO '$'
+
+******************************************
+CARACTER INVALIDO '{'
+
+******************************************
+CARACTER VALIDOS >>>  LexToken(IGUAL,'=',8,227)
+CARACTER VALIDOS >>>  LexToken(ID,'N',8,228)
+CARACTER INVALIDO '#'
+
+******************************************
+CARACTER VALIDOS >>>  LexToken(RESTA,'-',8,230)
+CARACTER VALIDOS >>>  LexToken(ID,'hWBm',8,231)
+CARACTER INVALIDO '{'
+
+******************************************
+CARACTER VALIDOS >>>  LexToken(NUMERO,4,8,236)
+CARACTER VALIDOS >>>  LexToken(ID,'K',8,237)
+CARACTER INVALIDO '&'
+
+******************************************
+CARACTER VALIDOS >>>  LexToken(ID,'T',8,239)
+CARACTER INVALIDO ':'
+
+******************************************
+CARACTER VALIDOS >>>  LexToken(IPARENTESIS,'(',8,241)
+CARACTER VALIDOS >>>  LexToken(IGUAL,'=',8,242)
+CARACTER VALIDOS >>>  LexToken(ID,'Ckxk',8,243)
+CARACTER VALIDOS >>>  LexToken(NUMERO,2,9,248)
+CARACTER VALIDOS >>>  LexToken(ID,'V',9,249)
+CARACTER VALIDOS >>>  LexToken(PRODUCTO,'*',9,250)
+CARACTER VALIDOS >>>  LexToken(DIVISION,'/',9,251)
+CARACTER VALIDOS >>>  LexToken(ID,'i5',9,252)
+CARACTER INVALIDO '.'
+
+******************************************
+CARACTER VALIDOS >>>  LexToken(ID,'mfu',9,255)
+CARACTER INVALIDO ','
+
+******************************************
+CARACTER VALIDOS >>>  LexToken(ID,'j5J5p',9,259)
+CARACTER INVALIDO ':'
+
+******************************************
+CARACTER VALIDOS >>>  LexToken(ID,'UCY',9,265)
+CARACTER INVALIDO '{'
+
+******************************************
+CARACTER VALIDOS >>>  LexToken(NUMERO,4,9,269)
+CARACTER VALIDOS >>>  LexToken(ID,'ngX8U',9,270)
+CARACTER INVALIDO '@'
+
+******************************************
+CARACTER VALIDOS >>>  LexToken(ID,'pi',9,276)
+CARACTER VALIDOS >>>  LexToken(ID,'n2DDVPdhL_D',10,279)
+CARACTER INVALIDO '!'
+
+******************************************
+CARACTER INVALIDO '$'
+
+******************************************
+CARACTER VALIDOS >>>  LexToken(IPARENTESIS,'(',10,292)
+CARACTER VALIDOS >>>  LexToken(ID,'RNb4FZ',10,293)
+CARACTER INVALIDO '['
+
+******************************************
+CARACTER VALIDOS >>>  LexToken(PRODUCTO,'*',10,300)
+CARACTER VALIDOS >>>  LexToken(ID,'Tr',10,301)
+CARACTER INVALIDO '?'
+
+******************************************
+CARACTER INVALIDO '{'
+
+******************************************
+CARACTER VALIDOS >>>  LexToken(ID,'K8iR',10,305)
+Cantidad de caracteres en archivo:  310
