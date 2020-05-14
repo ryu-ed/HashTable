@@ -22,7 +22,7 @@ _Las filas y columnas demuestran donde esta ubicado el token dentro del archivo 
 
 ## Captura de imagen del funcionamiento del programa
 ![alt text](https://github.com/ryu-ed/HashTable/raw/master/images/valid.PNG " ")
-
+Archivo que muestra el resultado de la compilacion : https://github.com/ryu-ed/HashTable/blob/master/resultado
 ### Para ejecutar el programa se debe instalar o tener:
 - Libreria ply: sudo apt-get install python3-ply
 - python 3: https://python-guide-es.readthedocs.io/es/latest/starting/install3/linux.html
