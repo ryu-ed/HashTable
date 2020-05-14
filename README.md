@@ -5,7 +5,7 @@ En este caso en lugar de utilizar numeros como identificadores, utilice las expr
 
 _El programa da como resultado un arreglo lextoken que contiene lo siguiente: lextoken(token,caracter/cadena,fila,columna)_
 
-_Las filas y columnas demuestran donde esta ubicado el token dentro del archivo de texto_
+_Las filas y columnas muestran donde esta ubicado el token dentro del archivo de texto_
 ***Al descargar el proyecto, en ubuntu deben compilarlo de la siguiente manera en la terminal: python3 index.py diccionario.txt***
 
 | **Token** | **Identificador = expresion regular** |  **Descripcion** |
