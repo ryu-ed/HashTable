@@ -4,7 +4,7 @@ El programa identifica los tokens por medio de expresiones regulares, las cuales
 En este caso en lugar de utilizar numeros como identificadores, utilice las expresiones regulares. 
 
 
-| Token | Identificador = expresion regular |  Descripcion |
+| Token | Identificador = expresion regular |  :Descripcion: |
 | ------------- | ------------- | ------------- |
 | ID | t_ID = r'\w+'  | Reconoce cualquier caracter alfanumerico  |
 | NUMERO | t_NUMERO = r'\d+'  | Reconoce cualquier numero de 0 a 9 |
