@@ -29,6 +29,15 @@ Archivo que muestra el resultado de la compilacion : https://github.com/ryu-ed/H
 - Libreria ply: sudo apt-get install python3-ply
 - python 3: https://python-guide-es.readthedocs.io/es/latest/starting/install3/linux.html
 
+# Como ejecutar el programa en Windows
+- Tener python instalado y actualizado
+- instalar la libreria ply: pip install ply
+- Si hay error y pide el wheel, instalarlo: pip install wheel
+
+## Captura de pantalla de como compilarlo en windows
+![alt text](https://github.com/ryu-ed/HashTable/raw/master/images/valid_win.PNG " ")
+
 ## Referencias 
 - https://www.matthieuamiguet.ch/media/documents/TeachingCompilersWithPython_Slides.pdf
 - https://www.dlsi.ua.es/asignaturas/pl/downloads/1516/tema2-1x2.pdf
+
